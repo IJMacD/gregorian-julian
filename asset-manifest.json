@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gregorian-julian/static/css/main.9b8317c8.css",
+    "main.js": "/gregorian-julian/static/js/main.baec746e.js",
+    "index.html": "/gregorian-julian/index.html",
+    "main.9b8317c8.css.map": "/gregorian-julian/static/css/main.9b8317c8.css.map",
+    "main.baec746e.js.map": "/gregorian-julian/static/js/main.baec746e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8317c8.css",
+    "static/js/main.baec746e.js"
+  ]
+}
